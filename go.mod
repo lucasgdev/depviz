@@ -15,12 +15,12 @@ require (
 	github.com/gogo/gateway v1.1.0
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.3.2
-	github.com/google/go-github/v28 v28.1.1
+	github.com/google/go-github/v28/v29 v29.0.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
 	github.com/grpc-ecosystem/grpc-gateway v1.12.1
 	github.com/oklog/run v1.0.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
-	github.com/peterbourgon/ff v1.6.1-0.20190916204019-6cd704ec2eeb
+	github.com/peterbourgon/ff/v2/v2 v2.0.0
 	github.com/prometheus/client_golang v1.3.0 // indirect
 	github.com/rogpeppe/go-internal v1.5.1 // indirect
 	github.com/rs/cors v1.7.0
